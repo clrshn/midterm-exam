@@ -23,8 +23,7 @@ The **PetCare System** is a web-based application designed to manage pet records
 - 🐶 Add, Edit, and Delete Pet Records  
 - 📅 Appointment Scheduling  
 - 👩‍⚕️ Owner and Pet Profile Management  
-- 💾 Database Integration with MySQL  
-- 🔐 Login Authentication (if implemented)  
+- 💾 Database Integration with MySQL   
 - 📊 Dashboard Overview  
 
 ---
