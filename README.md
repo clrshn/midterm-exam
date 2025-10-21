@@ -6,8 +6,8 @@ The **PetCare System** is a web-based application designed to manage pet records
 ---
 
 ## 👩‍💻 Authors
-- [**Daisy Grace Carreon**](https://github.com/carreondaisygrace)  
 - [**Clarisahaina Gonting**](https://github.com/clrshn)
+- [**Daisy Grace Carreon**](https://github.com/carreondaisygrace)  
 
 ---
 
