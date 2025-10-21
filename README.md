@@ -43,7 +43,7 @@ The **PetCare System** is a web-based application designed to manage pet records
     composer install
     npm install 
     
-4.Copy .env.example to .env and update your database credentials.
+4. Copy .env.example to .env and update your database credentials.
     ```bash
     php artisan key:generate
     php artisan migrate
